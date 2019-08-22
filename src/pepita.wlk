@@ -134,7 +134,6 @@ object manzana {
 	method energiaQueOtorga() {
 		return 50
 	}
-
 }
 
 
